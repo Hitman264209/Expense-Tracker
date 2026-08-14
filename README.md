@@ -1,4 +1,5 @@
 # Expense Tracker
+**Live demo:** https://expense-tracker-app-l5gm.onrender.com
 
 A personal expense tracking application: a Flask REST API backed by SQLite,
 with a live web dashboard and a full automated test suite.
